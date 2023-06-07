@@ -2,3 +2,4 @@ banana
 mela
 arancia
 pera
+ananas
